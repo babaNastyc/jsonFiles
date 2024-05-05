@@ -1,0 +1,199 @@
+[
+  {
+    "label": "Compress PDF",
+    "type": "solo",
+    "route": "/app/compress-pdf"
+  },
+  {
+    "label": "Compress Image",
+    "type": "solo",
+    "route": "/app/compress-image"
+  },
+  {
+    "label": "Convert File",
+    "type": "dropdown",
+    "dropDownList": [
+      {
+        "group": "CONVERT TO PDF",
+        "items": [
+          {
+            "label": "JPG to PDF",
+            "route": "/app/jpg-to-pdf"
+          },
+          {
+            "label": "Word to PDF",
+            "route": "/app/word-to-pdf"
+          },
+          {
+            "label": "POWERPOINT to PDF",
+            "route": "/app/powerpoint-to-pdf"
+          },
+          {
+            "label": "EXCEL to PDF",
+            "route": "/app/excel-to-pdf"
+          },
+          {
+            "label": "HTML to PDF",
+            "route": "/app/html-to-pdf"
+          }
+        ]
+      },
+      {
+        "group": "CONVERT FROM PDF",
+        "items": [
+          {
+            "label": "PDF to JPG",
+            "route": "/app/pdf-to-jpg"
+          },
+          {
+            "label": "PDF to WORD",
+            "route": "/app/pdf-to-word"
+          },
+          {
+            "label": "PDF to POWERPOINT",
+            "route": "/app/pdf-to-powerpoint"
+          },
+          {
+            "label": "PDF to EXCEL",
+            "route": "/app/pdf-to-excel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "Compress File",
+    "type": "dropdown",
+    "dropDownList": [
+      {
+        "items": [
+          {
+            "label": "Compress PDF",
+            "route": "/app/compress-pdf"
+          },
+          {
+            "label": "Compress Image",
+            "route": "/app/compress-image"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "label": "JPG to PNG",
+    "type": "solo",
+    "route": "/app/jpg-to-png"
+  },
+  {
+    "label": "PDF to Word",
+    "type": "solo",
+    "route": "/app/crop-image"
+  },
+  {
+    "label": "All Tools",
+    "type": "dropdown",
+    "dropDownList": [
+      {
+        "group": "ORGANIZE PDF",
+        "items": [
+          {
+            "label": "Remove Pages",
+            "route": "/app/remove-pages"
+          },
+          {
+            "label": "Extract Pages",
+            "route": "/app/extract-pages"
+          },
+          {
+            "label": "Scan to PDF",
+            "route": "/app/scan-pdf"
+          },
+          {
+            "label": "Compress PDF",
+            "route": "/app/compress-pdf"
+          },
+          {
+            "label": "Repair PDF",
+            "route": "/app/repair-pdf"
+          }
+        ]
+      },
+      {
+        "group": "Edit PDF",
+        "items": [
+          {
+            "label": "Rotate PDF",
+            "route": "/app/rotate-pdf"
+          },
+          {
+            "label": "Add Page Number",
+            "route": "/app/add-page-number"
+          },
+          {
+            "label": "Add Watermark",
+            "route": "/app/add-watermark"
+          },
+          {
+            "label": "Edit PDF",
+            "route": "/app/edit-pdf"
+          }
+        ]
+      },
+      {
+        "group": "PDF Security",
+        "items": [
+          {
+            "label": "Unlock PDF",
+            "route": "/app/unlock-pdf"
+          },
+          {
+            "label": "Protect PDF",
+            "route": "/app/protect-pdf"
+          },
+          {
+            "label": "Sign PDF",
+            "route": "/app/sign-pdf"
+          }
+        ]
+      },
+      {
+        "group": "Optimize",
+        "items": [
+          {
+            "label": "Upscale",
+            "route": "/app/upscale"
+          },
+          {
+            "label": "Remove Background",
+            "route": "/app/remove-bg"
+          },
+          {
+            "label": "Meme Generator",
+            "route": "/app/meme-gen"
+          },
+          {
+            "label": "Photo Editor",
+            "route": "/app/photo-editor"
+          }
+        ]
+      },
+      {
+        "group": "Modify",
+        "items": [
+          {
+            "label": "Rotate Image",
+            "route": "/app/rotate-image"
+          },
+          {
+            "label": "Watermark Image",
+            "route": "/app/watermark-image"
+          },
+          {
+            "label": "Blur Face",
+            "route": "/app/blur-face"
+          }
+        ]
+      }
+    ]
+  }
+]

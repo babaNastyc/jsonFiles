@@ -1,0 +1,208 @@
+[
+  {
+    "column": 1,
+    "categories": [
+      {
+        "label": "Organize PDF",
+        "items": [
+          {
+            "label": "Merge PDF",
+            "route": "/app/merge-pdf"
+          },
+          {
+            "label": "Split PDF",
+            "route": "/app/split-pdf"
+          },
+          {
+            "label": "Remove Pages",
+            "route": "/app/remove-pages"
+          },
+          {
+            "label": "Extract Pages",
+            "route": "/app/extract-pages"
+          },
+          {
+            "label": "Organize PDF",
+            "route": "/app/organize-pdf"
+          },
+          {
+            "label": "Scan to PDF",
+            "route": "/app/scan-pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "column": 2,
+    "categories": [
+      {
+        "label": "Convert to PDF",
+        "items": [
+          {
+            "label": "JPG to PDF",
+            "route": "/app/jpg-to-pdf"
+          },
+          {
+            "label": "Word to PDF",
+            "route": "/app/word-to-pdf"
+          },
+          {
+            "label": "POWERPOINT to PDF",
+            "route": "/app/powerpoint-pdf"
+          },
+          {
+            "label": "EXCEL to PDF",
+            "route": "/app/excel-to-pdf"
+          },
+          {
+            "label": "HTML to PDF",
+            "route": "/app/html-to-pdf"
+          }
+        ]
+      },
+      {
+        "label": "Optimize PDF",
+        "items": [
+          {
+            "label": "Compress PDF",
+            "route": "/app/compress-pdf"
+          },
+          {
+            "label": "Repair PDF",
+            "route": "/app/repair-pdf"
+          },
+          {
+            "label": "OCR PDF",
+            "route": "/app/ocr-pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "column": 3,
+    "categories": [
+      {
+        "label": "Convert From PDF",
+        "items": [
+          {
+            "label": "PDF to JPG",
+            "route": "/app/pdf-to-jpg"
+          },
+          {
+            "label": "PDF to Word",
+            "route": "/app/pdf-to-word"
+          },
+          {
+            "label": "PDF to Powerpoint",
+            "route": "/app/pdf-powerpoint"
+          },
+          {
+            "label": "PDF to Excel",
+            "route": "/app/pdf-to-excel"
+          },
+          {
+            "label": "PDF to PDF/A",
+            "route": "/app/pdf-to-pdfa"
+          }
+        ]
+      },
+      {
+        "label": "Edit PDF",
+        "items": [
+          {
+            "label": "Rotate PDF",
+            "route": "/app/rotate-pdf"
+          },
+          {
+            "label": "Add Page Number",
+            "route": "/app/add-page-number"
+          },
+          {
+            "label": "Add Watermark",
+            "route": "/app/add-watermark"
+          },
+          {
+            "label": "Edit PDF",
+            "route": "/app/edit-pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "column": 4,
+    "categories": [
+      {
+        "label": "Convert to Image",
+        "items": [
+          {
+            "label": "Convert to JPG",
+            "route": "/app/convert-to-jpg"
+          },
+          {
+            "label": "Convert from JPG",
+            "route": "/app/convert-from-jpg"
+          },
+          {
+            "label": "HTML to Image",
+            "route": "/app/html-to-image"
+          }
+        ]
+      },
+      {
+        "label": "Modify Image",
+        "items": [
+          {
+            "label": "Resize Image",
+            "route": "/app/resize-image"
+          },
+          {
+            "label": "Crop Image",
+            "route": "/app/crop-image"
+          },
+          {
+            "label": "Rotate Image",
+            "route": "/app/rotate-image"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "column": 5,
+    "categories": [
+      {
+        "label": "Optimize Image",
+        "items": [
+          {
+            "label": "Compress Image",
+            "route": "/app/compress-image"
+          },
+          {
+            "label": "Upscale",
+            "route": "/app/upscale"
+          },
+          {
+            "label": "Remove Background",
+            "route": "/app/remove-bg"
+          }
+        ]
+      },
+      {
+        "label": "Security",
+        "items": [
+          {
+            "label": "Watermark Image",
+            "route": "/app/watermark-image"
+          },
+          {
+            "label": "Blur Face",
+            "route": "/app/blur-face"
+          }
+        ]
+      }
+    ]
+  }
+]

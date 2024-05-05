@@ -1,0 +1,44 @@
+[
+  {
+    "label": "Fast and Easy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quae, voluptatem amet explicabo vitae",
+    "icon": "",
+    "color": "#A82FFF",
+    "iconColor": "#EBD5FB"
+  },
+  {
+    "label": "Fast and Easy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quae, voluptatem amet explicabo vitae",
+    "icon": "",
+    "color": "#FF5331",
+    "iconColor": "#FFEFEF"
+  },
+  {
+    "label": "Fast and Easy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quae, voluptatem amet explicabo vitae",
+    "icon": "",
+    "color": "#2980B9",
+    "iconColor": "#DEF2FF"
+  },
+  {
+    "label": "Fast and Easy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quae, voluptatem amet explicabo vitae",
+    "icon": "",
+    "color": "#F9EF0A",
+    "iconColor": "#FEFDE2"
+  },
+  {
+    "label": "Fast and Easy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quae, voluptatem amet explicabo vitae ",
+    "icon": "",
+    "color": "#10B981",
+    "iconColor": "#DEFCF2"
+  },
+  {
+    "label": "Fast and Easy",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus quae, voluptatem amet explicabo vitae",
+    "icon": "",
+    "color": "#FF2FBB",
+    "iconColor": "#FFE0F5"
+  }
+]
