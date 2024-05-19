@@ -1,0 +1,52 @@
+{
+  "title": "dragdropdo",
+  "description": "DragDropDo offers seamless file operations including splitting PDFs, compressing PDFs, converting PDFs to Word and vice versa, compressing images, converting image formats, removing backgrounds, and blurring faces.",
+  "openGraph": {
+    "type": "website",
+    "url": "https://www.dragdropdo.com/",
+    "title": "File Operations Made Easy: Split, Compress, Convert PDFs & Images | YourSiteName",
+    "description": "DragDropDo offers seamless file operations including splitting PDFs, compressing PDFs, converting PDFs to Word and vice versa, compressing images, converting image formats, removing backgrounds, and blurring faces.",
+    "images": [
+      {
+        "url": "https://www.dragdropdo.com/images/og.png",
+        "width": 800,
+        "height": 600,
+        "alt": "DragDropDo"
+      }
+    ]
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "url": "https://www.dragdropdo.com/",
+    "title": "File Operations Made Easy: Split, Compress, Convert PDFs & Images | DragDropDo",
+    "description": "DragDropDo offers seamless file operations including splitting PDFs, compressing PDFs, converting PDFs to Word and vice versa, compressing images, converting image formats, removing backgrounds, and blurring faces.",
+    "images": [
+      {
+        "url": "https://www.dragdropdo.com/images/twitter.png",
+        "alt": "DragDropDo"
+      }
+    ]
+  },
+  "robots": {
+    "index": true,
+    "follow": true
+  },
+  "keywords": [
+    "split PDF",
+    "compress PDF",
+    "convert PDF",
+    "PDF to Word",
+    "Word to PDF",
+    "compress image",
+    "convert image",
+    "remove background",
+    "blur faces",
+    "file operations"
+  ],
+  "authors": [
+    {
+      "name": "DragDropDo"
+    }
+  ],
+  "viewport": "width=device-width, initial-scale=1.0"
+}
