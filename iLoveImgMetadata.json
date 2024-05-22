@@ -1,0 +1,834 @@
+[
+  {
+    "title": "Easily compress images at optimal quality in seconds.",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/compressimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Easily compress images at optimal quality in seconds.",
+      "description": "Choose multiple JPG, PNG or GIF images and compress them in seconds for free! You can shrink with ease in just a few clicks!",
+      "type": "website",
+      "url": "https://www.iloveimg.com/compress-image",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/compressimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Easily compress images at optimal quality in seconds.",
+      "description": "Choose multiple JPG, PNG or GIF images and compress them in seconds for free! You can shrink with ease in just a few clicks!"
+    },
+    "": "",
+    "description": "Choose multiple JPG, PNG or GIF images and compress them in seconds for free! You can shrink with ease in just a few clicks!",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "JcD-MMHkgcA-YLgQiXHSa_e_wrvsAhGju0hsONausmJgsstCmKi3sWE5lVjvFLEBpeaD-opGXdnecRR-5sGFBw=="
+  },
+  {
+    "title": "Resize multiple images at once!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/resizeimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Resize multiple images at once!",
+      "description": "Resize multiple JPG, PNG, SVG or GIF images in seconds easily and for free. Bulk resize images by defining pixels or percentages.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/resize-image",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/resizeimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Resize multiple images at once!",
+      "description": "Resize multiple JPG, PNG, SVG or GIF images in seconds easily and for free. Bulk resize images by defining pixels or percentages."
+    },
+    "": "",
+    "description": "Resize multiple JPG, PNG, SVG or GIF images in seconds easily and for free. Bulk resize images by defining pixels or percentages.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "jsEVTicZpEbcTpVXmlP_xyBV1fB28W62TwKTmOzURhjoiX0PV1fKDeh-_WDDPbOPRmaetiaLNPoHOvGvs5Uvfw=="
+  },
+  {
+    "title": "Crop your images in seconds for free!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/cropimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Crop your images in seconds for free!",
+      "description": "Crop a JPG, PNG or GIF in seconds for free!",
+      "type": "website",
+      "url": "https://www.iloveimg.com/crop-image",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/cropimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Crop your images in seconds for free!",
+      "description": "Crop a JPG, PNG or GIF in seconds for free!"
+    },
+    "": "",
+    "description": "Crop a JPG, PNG or GIF in seconds for free!",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "O5oVoz7T3mbgadS3a-Tiu7jjpE6hDvkZEY1rG1z5DdRcombFb5ekC5knkf8as7TR79TdI-tFk1dL1VhZA5p6pw=="
+  },
+  {
+    "title": "Convert images in multiple formats to JPG in seconds.",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Convert images in multiple formats to JPG in seconds.",
+      "description": "Convert many image formats to JPG in seconds for free! Bulk convert PNG, GIF, TIFF or RAW formats to JPGs with ease.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/convert-to-jpg",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Convert images in multiple formats to JPG in seconds.",
+      "description": "Convert many image formats to JPG in seconds for free! Bulk convert PNG, GIF, TIFF or RAW formats to JPGs with ease."
+    },
+    "": "",
+    "description": "Convert many image formats to JPG in seconds for free! Bulk convert PNG, GIF, TIFF or RAW formats to JPGs with ease.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "qCGjfG43CNK8C8oZLPH3HRadxtQeC7Hb7jRF4oxrIjuYVflIHVF7uMVTnndrnZJ3WPnzmHE43pyNVhSE7V0TDQ=="
+  },
+  {
+    "title": "Convert PNGs to JPGs for free in seconds!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Convert PNGs to JPGs for free in seconds!",
+      "description": "Convert PNGs to JPGs in seconds for free with our online app.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/convert-to-jpg/png-to-jpg",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Convert PNGs to JPGs for free in seconds!",
+      "description": "Convert PNGs to JPGs in seconds for free with our online app."
+    },
+    "": "",
+    "description": "Convert PNGs to JPGs in seconds for free with our online app.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "LSBpNDVdqI0l3kKoUrPqP8tGqjsIX3r68Cp9DdURg5J3QT0ABjr62lSEdJEWxdNLgwfJSToRF6uJUgVfuFPR-A=="
+  },
+  {
+    "title": "Convert GIFs to JPGs in seconds for free!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Convert GIFs to JPGs in seconds for free!",
+      "description": "Convert GIFs to JPGs in seconds for free! Extract every frame of your GIF to separate JPG images.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/convert-to-jpg/gif-to-jpg",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Convert GIFs to JPGs in seconds for free!",
+      "description": "Convert GIFs to JPGs in seconds for free! Extract every frame of your GIF to separate JPG images."
+    },
+    "": "",
+    "description": "Convert GIFs to JPGs in seconds for free! Extract every frame of your GIF to separate JPG images.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "NqElJT8Uq0pArlg0ji3HwY1-XnmUi_JE9uW7ZKR8j7hlx1EQDy3sJSuebAzRZL2wvDIcAKa8ogqHg-pT7ia67w=="
+  },
+  {
+    "title": "Convert TIFF images to JPG online",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Convert TIFF images to JPG online",
+      "description": "Convert TIFF to JPG images. Online app to convert TIFF images to JPG.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/convert-to-jpg/tiff-to-jpg",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Convert TIFF images to JPG online",
+      "description": "Convert TIFF to JPG images. Online app to convert TIFF images to JPG."
+    },
+    "": "",
+    "description": "Convert TIFF to JPG images. Online app to convert TIFF images to JPG.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "sCt-RU2pWdtMq3jjUWZWIvxJGAWWquAh6mX8aJ2q1i3jTQpwfZAetCebTNsOLyxTzQVafKSdsG-bA61f1_Djeg=="
+  },
+  {
+    "title": "Convert many SVG to JPG",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Convert many SVG to JPG",
+      "description": "Convert vectors to rasterized images. Webapp to convert SVG vectors to JPG.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/convert-to-jpg/svg-to-jpg",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Convert many SVG to JPG",
+      "description": "Convert vectors to rasterized images. Webapp to convert SVG vectors to JPG."
+    },
+    "": "",
+    "description": "Convert vectors to rasterized images. Webapp to convert SVG vectors to JPG.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "shqlCoDb_9H7W6Zh5SF1KtVfTXU5al4F9zZUV0YSSj_hfNE_sOK4vpBrklm6aA9b5BMPDAtdDkuGUAVgDEh_aA=="
+  },
+  {
+    "title": "Convert Photoshop PSD to JPG",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Convert Photoshop PSD to JPG",
+      "description": "Convert Photoshop images to JPG images. Webapp to convert PSD to JPG.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/convert-to-jpg/psd-to-jpg",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Convert Photoshop PSD to JPG",
+      "description": "Convert Photoshop images to JPG images. Webapp to convert PSD to JPG."
+    },
+    "": "",
+    "description": "Convert Photoshop images to JPG images. Webapp to convert PSD to JPG.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "X6CTeEzGuPR-rIfy4Znd3oTDmerQkJe9sFZIxxrXwbgS8qQTefL7gwzc34i3rbunwLHru7X629v4PxmSLOav_A=="
+  },
+  {
+    "title": "Convert WEBP to JPG online for free",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Convert WEBP to JPG online for free",
+      "description": "Convert WEBP images to JPG. Webapp to convert WEBP to JPG.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/convert-to-jpg/webp-to-jpg",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Convert WEBP to JPG online for free",
+      "description": "Convert WEBP images to JPG. Webapp to convert WEBP to JPG."
+    },
+    "": "",
+    "description": "Convert WEBP images to JPG. Webapp to convert WEBP to JPG.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "fty4gjR3yk1hU8RvOIoXkLEC7_6rDzxsiALRfW85X4UU7P3sdSOFe1Fm81x92ljC4FKwzfFjUirMM-QNXk8L9A=="
+  },
+  {
+    "title": "Convert HEIC to JPG online for free",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Convert HEIC to JPG online for free",
+      "description": "Convert HEIC images to JPG. Webapp to convert HEIC to JPG.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/convert-to-jpg/heic-to-jpg",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Convert HEIC to JPG online for free",
+      "description": "Convert HEIC images to JPG. Webapp to convert HEIC to JPG."
+    },
+    "": "",
+    "description": "Convert HEIC images to JPG. Webapp to convert HEIC to JPG.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "EQpb0PXinfuRNrh7cLkmk1mmLo1RACp3oT8mSxvL4jlBSDrlvtPWj_oC1TExjEX3YYtM3BJkT0LVBxUNdoOucQ=="
+  },
+  {
+    "title": "Convert many RAW formats to JPGs in seconds for free!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Convert many RAW formats to JPGs in seconds for free!",
+      "description": "Convert many RAW formats to JPG online and for free. Web app to convert RAW images to JPG.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/convert-to-jpg/raw-to-jpg",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/converttojpg.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Convert many RAW formats to JPGs in seconds for free!",
+      "description": "Convert many RAW formats to JPG online and for free. Web app to convert RAW images to JPG."
+    },
+    "": "",
+    "description": "Convert many RAW formats to JPG online and for free. Web app to convert RAW images to JPG.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "F76ZjU3zxZrU8iHYuh2y035LIbLcIZnE49gTBno2SO9U5Oi8KaKN_4ShGZ7Zf9qJEhNbiotF84eSnD51PXce2w=="
+  },
+  {
+    "title": "Compress JPG images in bulk for free!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/compressimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Compress JPG images in bulk for free!",
+      "description": "Compress your JPGs at optimal efficiency while maintaining image quality.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/compress-image/compress-jpg",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/compressimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Compress JPG images in bulk for free!",
+      "description": "Compress your JPGs at optimal efficiency while maintaining image quality."
+    },
+    "": "",
+    "description": "Compress your JPGs at optimal efficiency while maintaining image quality.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "7qY0qNmHkjjPfej3O_23tVioXQB4H68XqCdHVbqm62y5wFnquPLne5AZmKdXsPGEOtkrS0ls-07gSi492Z-ePw=="
+  },
+  {
+    "title": "Compress PNGs at the best quality, for free!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/compressimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Compress PNGs at the best quality, for free!",
+      "description": "Choose multiple PNGs and compress them in seconds while maintaining quality. Shrinking PNGs is easy and free!",
+      "type": "website",
+      "url": "https://www.iloveimg.com/compress-image/compress-png",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/compressimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Compress PNGs at the best quality, for free!",
+      "description": "Choose multiple PNGs and compress them in seconds while maintaining quality. Shrinking PNGs is easy and free!"
+    },
+    "": "",
+    "description": "Choose multiple PNGs and compress them in seconds while maintaining quality. Shrinking PNGs is easy and free!",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "dpWpLsGuLOYo8JDF6nWR1mnGXp6EQ2TjS8QuIEwaDH8l890b8ZdriUPApP21POunWIoc57Z0NK06on8XBkA5KA=="
+  },
+  {
+    "title": "Compress your SVGs in seconds for free!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/compressimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Compress your SVGs in seconds for free!",
+      "description": "Choose multiple SVGs and compress them in seconds while maintaining quality. Shrinking SVGs is easy and free!",
+      "type": "website",
+      "url": "https://www.iloveimg.com/compress-image/compress-svg",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/compressimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Compress your SVGs in seconds for free!",
+      "description": "Choose multiple SVGs and compress them in seconds while maintaining quality. Shrinking SVGs is easy and free!"
+    },
+    "": "",
+    "description": "Choose multiple SVGs and compress them in seconds while maintaining quality. Shrinking SVGs is easy and free!",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "lcnRwE9-nZ7_oaBBvrtoUXQc0f70FtMTfQbG2km6ZCfGr6X1f0fa8ZSRlHnh8hIgRVCTh8Yhg10MYJftA-BRcA=="
+  },
+  {
+    "title": "Compress your GIF & animated GIFs in seconds for free!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/compressimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Compress your GIF & animated GIFs in seconds for free!",
+      "description": "Choose your GIF images and compress them in seconds maintaining animation! Shrink GIF images to reduce filesize for free!",
+      "type": "website",
+      "url": "https://www.iloveimg.com/compress-image/compress-gif",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/compressimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Compress your GIF & animated GIFs in seconds for free!",
+      "description": "Choose your GIF images and compress them in seconds maintaining animation! Shrink GIF images to reduce filesize for free!"
+    },
+    "": "",
+    "description": "Choose your GIF images and compress them in seconds maintaining animation! Shrink GIF images to reduce filesize for free!",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "EZM1tnAmaSfuy4cnRoIdymggRgav6sDUm-VLYCPcFX5C9UGDQB8uSIX7sx8Zy2e7WWwEf53dkJrqgxpXaYYgKQ=="
+  },
+  {
+    "title": "Resize multiple images at once!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/resizeimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Resize multiple images at once!",
+      "description": "Resize multiple JPG, PNG, SVG or GIF images in seconds easily and for free. Bulk resize images by defining pixels or percentages.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/resize-image",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/resizeimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Resize multiple images at once!",
+      "description": "Resize multiple JPG, PNG, SVG or GIF images in seconds easily and for free. Bulk resize images by defining pixels or percentages."
+    },
+    "": "",
+    "description": "Resize multiple JPG, PNG, SVG or GIF images in seconds easily and for free. Bulk resize images by defining pixels or percentages.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "jsEVTicZpEbcTpVXmlP_xyBV1fB28W62TwKTmOzURhjoiX0PV1fKDeh-_WDDPbOPRmaetiaLNPoHOvGvs5Uvfw=="
+  },
+  {
+    "title": "Crop your images in seconds for free!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/cropimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Crop your images in seconds for free!",
+      "description": "Crop a JPG, PNG or GIF in seconds for free!",
+      "type": "website",
+      "url": "https://www.iloveimg.com/crop-image",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/cropimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Crop your images in seconds for free!",
+      "description": "Crop a JPG, PNG or GIF in seconds for free!"
+    },
+    "": "",
+    "description": "Crop a JPG, PNG or GIF in seconds for free!",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "O5oVoz7T3mbgadS3a-Tiu7jjpE6hDvkZEY1rG1z5DdRcombFb5ekC5knkf8as7TR79TdI-tFk1dL1VhZA5p6pw=="
+  },
+  {
+    "title": "Rotate images in seconds for free!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/rotateimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Rotate images in seconds for free!",
+      "description": "Rotate JPG, PNG or GIF in seconds for free. You can choose to rotate multiple images depending on its orientation.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/rotate-image",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/rotateimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Rotate images in seconds for free!",
+      "description": "Rotate JPG, PNG or GIF in seconds for free. You can choose to rotate multiple images depending on its orientation."
+    },
+    "": "",
+    "description": "Rotate JPG, PNG or GIF in seconds for free. You can choose to rotate multiple images depending on its orientation.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "k9YACIyTYzD5r_0UjkX_cE7kJjCZDm7IfqfvosRshsmnk3Bx2r4WYrzoqnP7CZ0GC7NxAt5CAIwE1t-S8wHfkw=="
+  },
+  {
+    "title": "Free AI Image Upscaling Tool - Increase resolution of your images",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/upscaleimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Free AI Image Upscaling Tool - Increase resolution of your images",
+      "description": "Get high-quality images with iLoveIMG's advanced AI upscaling tool. Try it now for free and increase the resolution of your images online, in just a few clicks.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/upscale-image",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/upscaleimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Free AI Image Upscaling Tool - Increase resolution of your images",
+      "description": "Get high-quality images with iLoveIMG's advanced AI upscaling tool. Try it now for free and increase the resolution of your images online, in just a few clicks."
+    },
+    "": "",
+    "description": "Get high-quality images with iLoveIMG's advanced AI upscaling tool. Try it now for free and increase the resolution of your images online, in just a few clicks.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "aYWBOgNX6y0TJD184bmKn4UWpHQ4rusaer4ovd14iJ0M889ZVDGnXGNndUSzyr-o5lSVGH_UvXwV0wXJgi_Qrg=="
+  },
+  {
+    "title": "Image background remover",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/removebackgroundimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Image background remover",
+      "description": "Remove image backgrounds online with our powerful background removal tool. Save time editing with this AI-powered tool that instantly removes unwanted backgrounds with amazing accuracy.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/remove-background",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/removebackgroundimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Image background remover",
+      "description": "Remove image backgrounds online with our powerful background removal tool. Save time editing with this AI-powered tool that instantly removes unwanted backgrounds with amazing accuracy."
+    },
+    "": "",
+    "description": "Remove image backgrounds online with our powerful background removal tool. Save time editing with this AI-powered tool that instantly removes unwanted backgrounds with amazing accuracy.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "27Nt_EY4PogeUnMwSu47prtYfXsTuL62S7mF92lkTLGC-j6xD1d0uUFmGn8roQ6U6wAEIWeJi4ECibXBAwoY9w=="
+  },
+  {
+    "title": "Meme generator. Create the funniest memes online.",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/memeimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Meme generator. Create the funniest memes online.",
+      "description": "Create and share your memes online. Meme Generator to caption meme images or upload your pictures to make custom memes.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/meme-generator",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/memeimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Meme generator. Create the funniest memes online.",
+      "description": "Create and share your memes online. Meme Generator to caption meme images or upload your pictures to make custom memes."
+    },
+    "": "",
+    "description": "Create and share your memes online. Meme Generator to caption meme images or upload your pictures to make custom memes.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "D_vE29tyHYekwwTDbzx_cgMUmwRm4274D2iirIRwWnpcnbDu60ta6M_zMPswdQUDMljZfVTUPrZ-DvObzipvLQ=="
+  },
+  {
+    "title": "Convert JPG images to PNG or make animated GIFs for free!",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/convertfromjpg.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Convert JPG images to PNG or make animated GIFs for free!",
+      "description": "Convert many JPG images to PNG, GIF or animated GIF images. It takes just a few seconds and is 100% free!",
+      "type": "website",
+      "url": "https://www.iloveimg.com/jpg-to-image",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/convertfromjpg.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Convert JPG images to PNG or make animated GIFs for free!",
+      "description": "Convert many JPG images to PNG, GIF or animated GIF images. It takes just a few seconds and is 100% free!"
+    },
+    "": "",
+    "description": "Convert many JPG images to PNG, GIF or animated GIF images. It takes just a few seconds and is 100% free!",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "MOzdyUr7bxd9dHbeNs2It96-5dH8CC9SQJjCcscji2JWg5WRO68NdTEWDulfg9Lih8ShgMo8TgAz2bgeghS6Mg=="
+  },
+  {
+    "title": "HTML to Image converter. Transform HTML pages into an image.",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/htmlimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "HTML to Image converter. Transform HTML pages into an image.",
+      "description": "Convert HTML pages to IMAGE files for free with our HTML to IMAGE converter. Transform any web page to an image. Easy, fast and free. ",
+      "type": "website",
+      "url": "https://www.iloveimg.com/html-to-image",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/htmlimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "HTML to Image converter. Transform HTML pages into an image.",
+      "description": "Convert HTML pages to IMAGE files for free with our HTML to IMAGE converter. Transform any web page to an image. Easy, fast and free. "
+    },
+    "": "",
+    "description": "Convert HTML pages to IMAGE files for free with our HTML to IMAGE converter. Transform any web page to an image. Easy, fast and free. ",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "j5vgX-jHJlyGlDz35WKm1ste5E9C6TaM8htaz_z2CGnc_ZRq2P5hM-2kCM-6K9yn-hKmNnDeZsKDfQv4tqw9Pg=="
+  },
+  {
+    "title": "Watermark your images. Stamp multiple pictures at once.",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/watermarkimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Watermark your images. Stamp multiple pictures at once.",
+      "description": "Protect your digital images with custom watermarks. Add text or images to your pics. Batch watermark your images online, easy and free!",
+      "type": "website",
+      "url": "https://www.iloveimg.com/watermark-image",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/watermarkimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Watermark your images. Stamp multiple pictures at once.",
+      "description": "Protect your digital images with custom watermarks. Add text or images to your pics. Batch watermark your images online, easy and free!"
+    },
+    "": "",
+    "description": "Protect your digital images with custom watermarks. Add text or images to your pics. Batch watermark your images online, easy and free!",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "1E8aibmC3d5sKolEaOJT8FMa0ZPfEn24yWLaM2-8nB-HKW68ibuasQcavXw3qymBYlaT6u0lLfa4BIsEJeapSA=="
+  },
+  {
+    "title": "Blur face - Anonymize, pixelate and protect images",
+    "openGraph": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/blurfaceimage.jpg"
+      ],
+      "site_name": "iLoveIMG | The fastest free web app for easy image modification.",
+      "title": "Blur face - Anonymize, pixelate and protect images",
+      "description": "Blur out faces quickly or blur any part of an image manually to protect sensitive information. Easily anonymize photographs with single or multiple people using our online tool.",
+      "type": "website",
+      "url": "https://www.iloveimg.com/blur-face",
+      "app_id": "224495088285721"
+    },
+    "twitter": {
+      "images": [
+        "https://www.iloveimg.com/img/iloveimg/social/en-US/blurfaceimage.jpg"
+      ],
+      "card": "summary_large_image",
+      "site": "@iloveimg_com",
+      "creator": "@iloveimg_com",
+      "title": "Blur face - Anonymize, pixelate and protect images",
+      "description": "Blur out faces quickly or blur any part of an image manually to protect sensitive information. Easily anonymize photographs with single or multiple people using our online tool."
+    },
+    "": "",
+    "description": "Blur out faces quickly or blur any part of an image manually to protect sensitive information. Easily anonymize photographs with single or multiple people using our online tool.",
+    "viewport": "width=device-width, initial-scale=1.0",
+    "author": "iLovePDF",
+    "keywords": "Image, compress, resize, crop, convert, jpeg, png, gif, tiff, raw",
+    "google-site-verification": "IZueAX8T8h1eMQN3D0y8Xx7qu8-yCvtHnwn3MmpdSLo",
+    "csrf-param": "_csrf-ilovepdf",
+    "csrf-token": "Lj6hO_HUhV2zzQakXaUuIwOf0BzXQuWeYoo9bWoCHy0aU_cOwr6zM-GFaOcF8n5HbPqbapF6qccsvFUlIVBSAA=="
+  }
+]
