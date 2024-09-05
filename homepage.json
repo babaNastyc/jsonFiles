@@ -1,0 +1,273 @@
+{
+  "data": {
+    "heroSection": {
+      "title": "Drag Files, Drop Anywhere, Do Anything",
+      "subtitle": "Experience Effortless Productivity Compress, Convert and More - All At One Place",
+      "dropzoneData": {
+        "heading1": "Drag & Drop",
+        "heading2": "Or",
+        "files": "Files",
+        "folder": "Folder",
+        "subtitle": "JPEG, PNG, PDF and other formats, up to 2GB"
+      },
+      "highlights": [
+        "File stay private",
+        "Automatically deleted after 24 hours",
+        "2GB upload limit"
+      ],
+      "relatedOperations": [
+        {
+          "title": "PDF to Excel",
+          "image": "xtox",
+          "route": "/app"
+        },
+        {
+          "title": "Split PDF",
+          "image": "splitPDF",
+          "route": "/app"
+        },
+        {
+          "title": "Compress PDF",
+          "image": "compressPDF",
+          "route": "/compress-pdf"
+        },
+        {
+          "title": "Page Numbers",
+          "image": "pagenumber",
+          "route": "/app"
+        },
+        {
+          "title": "PDF to Word",
+          "image": "xtox",
+          "route": "/app"
+        },
+        {
+          "title": "PDF to Powerpoint",
+          "image": "xtox",
+          "route": "/app"
+        }
+      ]
+    },
+    "exploreTools": {
+      "title": "Explore Our Amazing Tools",
+      "subtitle": "Most Widely and Commonly Used Tools",
+      "items": [
+        {
+          "tab": "Popular",
+          "tabIdx": 1,
+          "tabDesc": "Most Widely and Commonly Used Tools",
+          "cardList": [
+            {
+              "label": "Compress Image",
+              "description": "Compress popular formats like jpg, png, webp and more",
+              "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/compress_image_hp_icon.svg",
+              "route": "/compress-image"
+            },
+            {
+              "label": "Compress PDF",
+              "description": "Turn your PDFs to the smaller size faster",
+              "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/compress_pdf_hp_icon.svg",
+              "route": "/compress-pdf"
+            },
+            {
+              "label": "JPG to PNG",
+              "description": "Compress popular formats like jpg, png, webp and more",
+              "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/convert_image_hp_icon.svg",
+              "route": "/jpg-to-png"
+            }
+          ]
+        },
+        {
+          "tab": "PDF",
+          "tabIdx": 2,
+          "tabDesc": "Convert, Compress and More with PDFs",
+          "cardList": [
+            {
+              "label": "Compress PDF",
+              "description": "Turn your PDFs to the smaller size faster",
+              "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/compress_pdf_hp_icon.svg",
+              "route": "/compress-pdf"
+            }
+          ]
+        },
+        {
+          "tab": "Image",
+          "tabIdx": 3,
+          "tabDesc": "Convert, Compress and More with Images",
+          "cardList": [
+            {
+              "label": "Compress Image",
+              "description": "Compress popular formats like jpg, png, webp and more",
+              "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/compress_image_hp_icon.svg",
+              "route": "/compress-image"
+            },
+            {
+              "label": "JPG to PNG",
+              "description": "Compress popular formats like jpg, png, webp and more",
+              "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/convert_image_hp_icon.svg",
+              "route": "/jpg-to-png"
+            }
+          ]
+        }
+      ],
+      "button": {
+        "label": "Explore All Tools",
+        "route": "/tools"
+      }
+    },
+    "features": {
+      "title": "Some Awesome Features",
+      "subtitle": "dragdropdo offers seamless flexibility for managing files of any type. Whether it's PDFs, images, or zipped folders, we've got you covered.",
+      "items": [
+        {
+          "label": "Works with anything",
+          "description": "Effortlessly manage any file type, from documents to multimedia, with dragdropdo.",
+          "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/versatile_compatibility_icon.svg"
+        },
+        {
+          "label": "Convenience in your browser",
+          "description": "No downloads or installs needed. Easily manage files directly in your browser. Compatible with all modern browsers for a smooth experience.",
+          "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/browser_based_convenience_icon.svg"
+        },
+        {
+          "label": "Complete Privacy",
+          "description": "Your data's confidentiality is our top priority. we automatically delete files 24 hours after upload, ensuring your privacy and peace of mind.",
+          "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/privacy_protection_icon.svg"
+        },
+        {
+          "label": "2GB Upload Limit",
+          "description": "Handle large files with ease! we supports files up to 2GB, allowing you to manage even the biggest documents or media files effortlessly.",
+          "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/generous_file_size_limit_icon.svg"
+        },
+        {
+          "label": "Batch Processing",
+          "description": "Streamline your workflow with batch processing. Handle multiple files at once, saving you time and effort.",
+          "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/efficient_batch_processing_icon.svg"
+        },
+        {
+          "label": "Fast Conversions",
+          "description": "Our cutting-edge infrastructure ensures lightning-fast file conversions. Experience exceptional speed and performance with our state-of-the-art technology.",
+          "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/swift_conversions_icon.svg"
+        }
+      ]
+    },
+    "slowdown": {
+      "title": "Don't let file management slow you down.",
+      "subtitle1": "Experience the power and convenience of dragdropdo today!",
+      "subtitle2": "drag and drop your file anywhere. on the screen!",
+      "button": "Upload File"
+    },
+    "whatPeopleSay": {
+      "title": "What People Say",
+      "subtitle1": "Experience the power and convenience of dragdropdo today!",
+      "subtitle2": "drag and drop your file anywhere. on the screen!",
+      "reviews": [
+        {
+          "name": "Mila McSabbu",
+          "Title": "Freelance Designer",
+          "Img": "mila",
+          "review": "We test and compare the best project management software for collaborating with a team, hitting deadlines."
+        },
+        {
+          "name": "Robert Fox",
+          "Title": "UI/UX Designer",
+          "Img": "robert",
+          "review": "Project management skimping on core features. It's strong at enabling with collaboration on visual materials."
+        },
+        {
+          "name": "Jenny Wilson",
+          "Title": "Web Developer",
+          "Img": "jenny",
+          "review": "Project to be a team's best option for project management, but when all the stars align, it's a powerful tool."
+        },
+        {
+          "name": "Mila McSabbu",
+          "Title": "Freelance Designer",
+          "Img": "mila",
+          "review": "We test and compare the best project management software for collaborating with a team, hitting deadlines."
+        },
+        {
+          "name": "Robert Fox",
+          "Title": "UI/UX Designer",
+          "Img": "robert",
+          "review": "Project management skimping on core features. It's strong at enabling with collaboration on visual materials."
+        },
+        {
+          "name": "Jenny Wilson",
+          "Title": "Web Developer",
+          "Img": "jenny",
+          "review": "Project to be a team's best option for project management, but when all the stars align, it's a powerful tool."
+        }
+      ]
+    },
+    "footer": {
+      "items": [
+        {
+          "column": 1,
+          "categories": [
+            {
+              "label": "Optimize PDF",
+              "items": [
+                {
+                  "label": "Compress PDF",
+                  "route": "/compress-pdf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "column": 2,
+          "categories": [
+            {
+              "label": "Optimize Image",
+              "items": [
+                {
+                  "label": "Compress Image",
+                  "route": "/compress-image"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "column": 3,
+          "categories": [
+            {
+              "label": "Convert Image",
+              "items": [
+                {
+                  "label": "JPG to PNG",
+                  "route": "/jpg-to-png"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "bottomMenu": [
+        {
+          "label": "Home",
+          "route": "/"
+        },
+        {
+          "label": "About",
+          "route": "/about"
+        },
+        {
+          "label": "Blog",
+          "route": "/blog"
+        },
+        {
+          "label": "FAQ",
+          "route": "/faq"
+        },
+        {
+          "label": "Contact Us",
+          "route": "/contact-us"
+        }
+      ],
+      "subtitle": "Made With ❤️ and ☕ In India"
+    }
+  }
+}
