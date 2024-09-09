@@ -48,5 +48,88 @@
       "name": "DragDropDo"
     }
   ],
-  "viewport": "width=device-width, initial-scale=1.0"
+  "viewport": "width=device-width, initial-scale=1.0",
+  "jsonLD": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://dragdropdo.com/#website",
+        "url": "https://dragdropdo.com/",
+        "name": "DragDropDo",
+        "description": "Compress and resize PDFs and images easily",
+        "publisher": { "@id": "https://dragdropdo.com/#organization" }
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://dragdropdo.com//#webpage",
+        "url": "https://dragdropdo.com//",
+        "name": "How We Work - DragDropDo",
+        "isPartOf": { "@id": "https://dragdropdo.com/#website" },
+        "description": "Learn about our compression and resizing process for PDFs and images"
+      },
+      {
+        "@type": "SoftwareApplication",
+        "name": "DragDropDo",
+        "applicationCategory": "UtilitiesApplication",
+        "operatingSystem": "All",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+        "description": "Compress and resize PDFs and images easily",
+        "url": "https://dragdropdo.com/",
+        "softwareVersion": "1.0",
+        "screenshot": [""],
+        "featureList": [
+          "PDF compression",
+          "Image compression",
+          "PDF resizing",
+          "Image resizing",
+          "Drag-and-drop interface",
+          "Batch processing"
+        ],
+        "author": {
+          "@type": "Organization",
+          "name": "DragDropDo Inc.",
+          "url": "https://dragdropdo.com/about"
+        },
+        "datePublished": "2023-01-01",
+        "requirements": "Modern web browser with JavaScript enabled",
+        "fileFormat": ["PDF", "JPG", "PNG", "GIF"],
+        "supportingData": "PDF documents and image files",
+        "interactionStatistic": [
+          {
+            "@type": "InteractionCounter",
+            "interactionType": "https://schema.org/DownloadAction",
+            "userInteractionCount": "100000"
+          },
+          {
+            "@type": "InteractionCounter",
+            "interactionType": "https://schema.org/UseAction",
+            "userInteractionCount": "500000"
+          },
+          {
+            "@type": "InteractionCounter",
+            "interactionType": "https://schema.org/LikeAction",
+            "userInteractionCount": "50000"
+          },
+          {
+            "@type": "InteractionCounter",
+            "interactionType": "https://schema.org/ShareAction",
+            "userInteractionCount": "10000"
+          },
+          {
+            "@type": "InteractionCounter",
+            "interactionType": "https://schema.org/PageVisits",
+            "userInteractionCount": "1000"
+          }
+        ],
+        "aggregateRating": {
+          "@type": "AggregateRating",
+          "ratingValue": "4.8",
+          "ratingCount": "1000",
+          "bestRating": "5",
+          "worstRating": "1"
+        }
+      }
+    ]
+  }
 }

@@ -1,0 +1,225 @@
+[
+  {
+    "name": "PDF",
+    "dropdownList": [
+      {
+        "group": "CONVERT TO PDF",
+        "items": [
+          {
+            "label": "JPG to PDF",
+            "route": "/app/jpg-to-pdf"
+          },
+          {
+            "label": "Word to PDF",
+            "route": "/app/word-to-pdf"
+          },
+          {
+            "label": "POWERPOINT to PDF",
+            "route": "/app/powerpoint-to-pdf"
+          },
+          {
+            "label": "EXCEL to PDF",
+            "route": "/app/excel-to-pdf"
+          },
+          {
+            "label": "HTML to PDF",
+            "route": "/app/html-to-pdf"
+          }
+        ]
+      },
+      {
+        "group": "CONVERT FROM PDF",
+        "items": [
+          {
+            "label": "PDF to JPG",
+            "route": "/app/pdf-to-jpg"
+          },
+          {
+            "label": "PDF to WORD",
+            "route": "/app/pdf-to-word"
+          },
+          {
+            "label": "PDF to POWERPOINT",
+            "route": "/app/pdf-to-powerpoint"
+          },
+          {
+            "label": "PDF to EXCEL",
+            "route": "/app/pdf-to-excel"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Image",
+    "dropdownList": [
+      {
+        "group": "CONVERT TO IMAGE",
+        "items": [
+          {
+            "label": "PDF to JPG",
+            "route": "/app/pdf-to-jpg"
+          },
+          {
+            "label": "PDF to PNG",
+            "route": "/app/pdf-to-png"
+          },
+          {
+            "label": "PDF to TIFF",
+            "route": "/app/pdf-to-tiff"
+          }
+        ]
+      },
+      {
+        "group": "CONVERT FROM IMAGE",
+        "items": [
+          {
+            "label": "JPG to PDF",
+            "route": "/app/jpg-to-pdf"
+          },
+          {
+            "label": "PNG to PDF",
+            "route": "/app/png-to-pdf"
+          },
+          {
+            "label": "TIFF to PDF",
+            "route": "/app/tiff-to-pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Audio",
+    "dropdownList": [
+      {
+        "group": "CONVERT TO AUDIO",
+        "items": [
+          {
+            "label": "MP3 to WAV",
+            "route": "/app/mp3-to-wav"
+          },
+          {
+            "label": "MP3 to OGG",
+            "route": "/app/mp3-to-ogg"
+          },
+          {
+            "label": "MP3 to FLAC",
+            "route": "/app/mp3-to-flac"
+          }
+        ]
+      },
+      {
+        "group": "CONVERT FROM AUDIO",
+        "items": [
+          {
+            "label": "WAV to MP3",
+            "route": "/app/wav-to-mp3"
+          },
+          {
+            "label": "OGG to MP3",
+            "route": "/app/ogg-to-mp3"
+          },
+          {
+            "label": "FLAC to MP3",
+            "route": "/app/flac-to-mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Video",
+    "dropdownList": [
+      {
+        "group": "CONVERT TO VIDEO",
+        "items": [
+          {
+            "label": "MP4 to AVI",
+            "route": "/app/mp4-to-avi"
+          },
+          {
+            "label": "MP4 to MOV",
+            "route": "/app/mp4-to-mov"
+          },
+          {
+            "label": "MP4 to WMV",
+            "route": "/app/mp4-to-wmv"
+          }
+        ]
+      },
+      {
+        "group": "CONVERT FROM VIDEO",
+        "items": [
+          {
+            "label": "AVI to MP4",
+            "route": "/app/avi-to-mp4"
+          },
+          {
+            "label": "MOV to MP4",
+            "route": "/app/mov-to-mp4"
+          },
+          {
+            "label": "WMV to MP4",
+            "route": "/app/wmv-to-mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "All Tools",
+    "dropdownList": [
+      {
+        "group": "Organize PDF",
+        "items": [
+          {
+            "label": "Merge PDF",
+            "route": "/merge-pdf"
+          },
+          {
+            "label": "Split PDF",
+            "route": "/split-pdf"
+          },
+          {
+            "label": "Remove Pages",
+            "route": "/remove-pages"
+          },
+          {
+            "label": "Extract Pages",
+            "route": "/extract-pages"
+          },
+          {
+            "label": "Scan PDF",
+            "route": "/scan-pdf"
+          }
+        ]
+      },
+      {
+        "group": "CONVERT TO PDF",
+        "items": [
+          {
+            "label": "JPG to PDF",
+            "route": "/app/jpg-to-pdf"
+          },
+          {
+            "label": "Word to PDF",
+            "route": "/app/word-to-pdf"
+          },
+          {
+            "label": "POWERPOINT to PDF",
+            "route": "/app/powerpoint-to-pdf"
+          },
+          {
+            "label": "EXCEL to PDF",
+            "route": "/app/excel-to-pdf"
+          },
+          {
+            "label": "HTML to PDF",
+            "route": "/app/html-to-pdf"
+          }
+        ]
+      }
+    ]
+  }
+]
