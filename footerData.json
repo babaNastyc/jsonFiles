@@ -1,200 +1,225 @@
-[
-  {
-    "column": 1,
-    "categories": [
-      {
-        "label": "Organize PDF",
-        "items": [
-          {
-            "label": "Merge PDF",
-            "route": "/merge-pdf"
-          },
-          {
-            "label": "Split PDF",
-            "route": "/split-pdf"
-          },
-          {
-            "label": "Remove Pages",
-            "route": "/remove-pages"
-          },
-          {
-            "label": "Extract Pages",
-            "route": "/extract-pages"
-          },
-          {
-            "label": "Scan PDF",
-            "route": "/scan-pdf"
-          }
-        ]
-      },
-      {
-        "label": "Convert To Pages",
-        "items": [
-          {
-            "label": "Convert to JPG",
-            "route": "/convert-to-jpg"
-          },
-          {
-            "label": "Convert From JPG",
-            "route": "/convert-from-jpg"
-          },
-          {
-            "label": "HTML To Image",
-            "route": "/html-to-image"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "column": 2,
-    "categories": [
-      {
-        "label": "Convert To PDF",
-        "items": [
-          {
-            "label": "JPG To PDF",
-            "route": "/jpg-to-pdf"
-          },
-          {
-            "label": "Word To PDF",
-            "route": "/word-to-pdf"
-          },
-          {
-            "label": "Powerpoint To PDF",
-            "route": "/powerpoint-to-pdf"
-          },
-          {
-            "label": "Excel To PDF",
-            "route": "/excel-to-pdf"
-          },
-          {
-            "label": "HTML To PDF",
-            "route": "/html-to-pdf"
-          }
-        ]
-      },
-      {
-        "label": "Optimize Image",
-        "items": [
-          {
-            "label": "Compress Image",
-            "route": "/compress-image"
-          },
-          {
-            "label": "Upscale",
-            "route": "/upscale"
-          },
-          {
-            "label": "Remove Background",
-            "route": "/remove-background"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "column": 3,
-    "categories": [
-      {
-        "label": "Convert From PDF",
-        "items": [
-          {
-            "label": "PDF to JPG",
-            "route": "/pdf-to-jpg"
-          },
-          {
-            "label": "PDF to Word",
-            "route": "/pdf-to-word"
-          },
-          {
-            "label": "PDF To Excel",
-            "route": "/pdf-to-excel"
-          },
-          {
-            "label": "PDF to PDF-A",
-            "route": "/pdf-to-pdf-a"
-          }
-        ]
-      },
-      {
-        "label": "Modify Image",
-        "items": [
-          {
-            "label": "Resize Image",
-            "route": "/resize-image"
-          },
-          {
-            "label": "Crop Image",
-            "route": "/crop-image"
-          },
-          {
-            "label": "Rotate Image",
-            "route": "/rotate-image"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "column": 4,
-    "categories": [
-      {
-        "label": "Optimize PDF",
-        "items": [
-          {
-            "label": "Compress PDF",
-            "route": "/compress-pdf"
-          },
-          {
-            "label": "Repair PDF",
-            "route": "/repair-pdf"
-          },
-          {
-            "label": "OCR PDF",
-            "route": "/ocr-pdf"
-          }
-        ]
-      },
-      {
-        "label": "Security",
-        "items": [
-          {
-            "label": "Watermark Image",
-            "route": "/watermark-image"
-          },
-          {
-            "label": "Blur Face",
-            "route": "/blur-face"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "column": 5,
-    "categories": [
-      {
-        "label": "Edit PDF",
-        "items": [
-          {
-            "label": "Rotate PDF",
-            "route": "/rotate-pdf"
-          },
-          {
-            "label": "Add Page Numbers",
-            "route": "/add-page-numbers"
-          },
-          {
-            "label": "Add Watermark",
-            "route": "/add-watermark"
-          },
-          {
-            "label": "Edit PDF",
-            "route": "/edit-pdf"
-          }
-        ]
-      }
-    ]
-  }
-]
+{
+  "items": [
+    {
+      "column": 1,
+      "categories": [
+        {
+          "label": "Organize PDF",
+          "items": [
+            {
+              "label": "Merge PDF",
+              "route": "/merge-pdf"
+            },
+            {
+              "label": "Split PDF",
+              "route": "/split-pdf"
+            },
+            {
+              "label": "Remove Pages",
+              "route": "/remove-pages"
+            },
+            {
+              "label": "Extract Pages",
+              "route": "/extract-pages"
+            },
+            {
+              "label": "Scan PDF",
+              "route": "/scan-pdf"
+            }
+          ]
+        },
+        {
+          "label": "Convert To Pages",
+          "items": [
+            {
+              "label": "Convert to JPG",
+              "route": "/convert-to-jpg"
+            },
+            {
+              "label": "Convert From JPG",
+              "route": "/convert-from-jpg"
+            },
+            {
+              "label": "HTML To Image",
+              "route": "/html-to-image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "column": 2,
+      "categories": [
+        {
+          "label": "Convert To PDF",
+          "items": [
+            {
+              "label": "JPG To PDF",
+              "route": "/jpg-to-pdf"
+            },
+            {
+              "label": "Word To PDF",
+              "route": "/word-to-pdf"
+            },
+            {
+              "label": "Powerpoint To PDF",
+              "route": "/powerpoint-to-pdf"
+            },
+            {
+              "label": "Excel To PDF",
+              "route": "/excel-to-pdf"
+            },
+            {
+              "label": "HTML To PDF",
+              "route": "/html-to-pdf"
+            }
+          ]
+        },
+        {
+          "label": "Optimize Image",
+          "items": [
+            {
+              "label": "Compress Image",
+              "route": "/compress-image"
+            },
+            {
+              "label": "Upscale",
+              "route": "/upscale"
+            },
+            {
+              "label": "Remove Background",
+              "route": "/remove-background"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "column": 3,
+      "categories": [
+        {
+          "label": "Convert From PDF",
+          "items": [
+            {
+              "label": "PDF to JPG",
+              "route": "/pdf-to-jpg"
+            },
+            {
+              "label": "PDF to Word",
+              "route": "/pdf-to-word"
+            },
+            {
+              "label": "PDF To Excel",
+              "route": "/pdf-to-excel"
+            },
+            {
+              "label": "PDF to PDF-A",
+              "route": "/pdf-to-pdf-a"
+            }
+          ]
+        },
+        {
+          "label": "Modify Image",
+          "items": [
+            {
+              "label": "Resize Image",
+              "route": "/resize-image"
+            },
+            {
+              "label": "Crop Image",
+              "route": "/crop-image"
+            },
+            {
+              "label": "Rotate Image",
+              "route": "/rotate-image"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "column": 4,
+      "categories": [
+        {
+          "label": "Optimize PDF",
+          "items": [
+            {
+              "label": "Compress PDF",
+              "route": "/compress-pdf"
+            },
+            {
+              "label": "Repair PDF",
+              "route": "/repair-pdf"
+            },
+            {
+              "label": "OCR PDF",
+              "route": "/ocr-pdf"
+            }
+          ]
+        },
+        {
+          "label": "Security",
+          "items": [
+            {
+              "label": "Watermark Image",
+              "route": "/watermark-image"
+            },
+            {
+              "label": "Blur Face",
+              "route": "/blur-face"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "column": 5,
+      "categories": [
+        {
+          "label": "Edit PDF",
+          "items": [
+            {
+              "label": "Rotate PDF",
+              "route": "/rotate-pdf"
+            },
+            {
+              "label": "Add Page Numbers",
+              "route": "/add-page-numbers"
+            },
+            {
+              "label": "Add Watermark",
+              "route": "/add-watermark"
+            },
+            {
+              "label": "Edit PDF",
+              "route": "/edit-pdf"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "bottomMenu": [
+    {
+      "label": "Home",
+      "route": "/"
+    },
+    {
+      "label": "About",
+      "route": "/about"
+    },
+    {
+      "label": "Blog",
+      "route": "/blog"
+    },
+    {
+      "label": "FAQ",
+      "route": "/faq"
+    },
+    {
+      "label": "Contact Us",
+      "route": "/contact-us"
+    }
+  ],
+  "subtitle": "Made With ❤️ and ☕ In India"
+}
