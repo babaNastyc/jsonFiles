@@ -1,6 +1,6 @@
 {
   "data": {
-    "pageType": "file",
+    "pageType": "software",  // there are going to be two page type for now "file" & "software"
     "appPageRoute": "/pdf/compress",
     "acceptedFileExtensions": ["pdf"],
     "heroSection": {
