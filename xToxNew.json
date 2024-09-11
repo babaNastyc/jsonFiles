@@ -1,11 +1,12 @@
 {
   "data": {
-    "pageType": "software",  // there are going to be two page type for now "file" & "software"
+    "pageType": "software",  
     "appPageRoute": "/pdf/compress",
     "acceptedFileExtensions": ["pdf"],
     "heroSection": {
       "title": "Compress PDF",
       "subtitle": "Compress your PDF file to get the same pdf quality but less storage.",
+      "heroImage": "dragdropdo.com/heroImage",
       "dropzoneData": {
         "heading1": "Drag & Drop",
         "heading2": "Or",
