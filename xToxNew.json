@@ -1,6 +1,8 @@
 {
   "data": {
     "pageType": "file",
+    "appPageRoute": "/pdf/compress",
+    "acceptedFileExtensions": ["pdf"],
     "heroSection": {
       "title": "Compress PDF",
       "subtitle": "Compress your PDF file to get the same pdf quality but less storage.",
