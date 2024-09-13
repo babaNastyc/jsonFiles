@@ -1,6 +1,7 @@
 [
   {
     "name": "PDF",
+    "icon": "/pdf-icon",
     "dropdownData": {
       "dropdownList": [
         {
@@ -71,143 +72,151 @@
           ]
         }
       ],
-      "convert": [
-        {
-          "label": "Convert From PDF",
-          "options": [
-            {
-              "category": "Image",
-              "formats": [
-                {
-                  "label": "JPG",
-                  "route": "/pdf-to-jpg"
-                },
-                {
-                  "label": "PNG",
-                  "route": "/pdf-to-png"
-                },
-                {
-                  "label": "TIFF",
-                  "route": "/pdf-to-tiff"
-                },
-                {
-                  "label": "GIF",
-                  "route": "/pdf-to-gif"
-                },
-                {
-                  "label": "BMP",
-                  "route": "/pdf-to-bmp"
-                },
-                {
-                  "label": "WEBP",
-                  "route": "/pdf-to-webp"
-                },
-                {
-                  "label": "SVG",
-                  "route": "/pdf-to-svg"
-                },
-                {
-                  "label": "ICO",
-                  "route": "/pdf-to-ico"
-                },
-                {
-                  "label": "HEIC",
-                  "route": "/pdf-to-heic"
-                }
-              ]
-            },
-            {
-              "category": "Document",
-              "formats": [
-                {
-                  "label": "Word",
-                  "route": "/pdf-to-word"
-                },
-                {
-                  "label": "Powerpoint",
-                  "route": "/pdf-to-powerpoint"
-                },
-                {
-                  "label": "Excel",
-                  "route": "/pdf-to-excel"
-                },
-                {
-                  "label": "HTML",
-                  "route": "/pdf-to-html"
-                }
-              ]
-            },
-            {
-              "category": "EBook",
-              "formats": [
-                {
-                  "label": "EPUB",
-                  "route": "/pdf-to-epub"
-                },
-                {
-                  "label": "MOBI",
-                  "route": "/pdf-to-mobi"
-                },
-                {
-                  "label": "AZW3",
-                  "route": "/pdf-to-azw3"
-                }
-              ]
-            },
-            {
-              "category": "Font",
-              "formats": [
-                {
-                  "label": "TTF",
-                  "route": "/pdf-to-ttf"
-                },
-                {
-                  "label": "OTF",
-                  "route": "/pdf-to-otf"
-                }
-              ]
-            },
-            {
-              "category": "Vector",
-              "formats": [
-                {
-                  "label": "AI",
-                  "route": "/pdf-to-ai"
-                },
-                {
-                  "label": "EPS",
-                  "route": "/pdf-to-eps"
-                },
-                {
-                  "label": "PS",
-                  "route": "/pdf-to-ps"
-                },
-                {
-                  "label": "SVG",
-                  "route": "/pdf-to-svg"
-                }
-              ]
-            },
-            {
-              "category": "CAD",
-              "formats": [
-                {
-                  "label": "DWG",
-                  "route": "/pdf-to-dwg"
-                },
-                {
-                  "label": "DXF",
-                  "route": "/pdf-to-dxf"
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "convert": {
+        "convertFrom": [
+          {
+            "category": "Image",
+            "formats": [
+              {
+                "label": "JPG",
+                "route": "/jpg-to-pdf"
+              },
+              {
+                "label": "PNG",
+                "route": "/png-to-pdf"
+              },
+              {
+                "label": "TIFF",
+                "route": "/tiff-to-pdf"
+              },
+              {
+                "label": "GIF",
+                "route": "/gif-to-pdf"
+              },
+              {
+                "label": "BMP",
+                "route": "/bmp-to-pdf"
+              }
+            ]
+          },
+          {
+            "category": "Document",
+            "formats": [
+              {
+                "label": "Word",
+                "route": "/word-to-pdf"
+              },
+              {
+                "label": "PowerPoint",
+                "route": "/powerpoint-to-pdf"
+              },
+              {
+                "label": "Excel",
+                "route": "/excel-to-pdf"
+              },
+              {
+                "label": "TXT",
+                "route": "/txt-to-pdf"
+              },
+              {
+                "label": "RTF",
+                "route": "/rtf-to-pdf"
+              }
+            ]
+          },
+          {
+            "category": "Other",
+            "formats": [
+              {
+                "label": "HTML",
+                "route": "/html-to-pdf"
+              },
+              {
+                "label": "EPUB",
+                "route": "/epub-to-pdf"
+              },
+              {
+                "label": "MOBI",
+                "route": "/mobi-to-pdf"
+              }
+            ]
+          }
+        ],
+        "convertTo": [
+          {
+            "category": "Image",
+            "formats": [
+              {
+                "label": "JPG",
+                "route": "/pdf-to-jpg"
+              },
+              {
+                "label": "PNG",
+                "route": "/pdf-to-png"
+              },
+              {
+                "label": "TIFF",
+                "route": "/pdf-to-tiff"
+              },
+              {
+                "label": "GIF",
+                "route": "/pdf-to-gif"
+              },
+              {
+                "label": "BMP",
+                "route": "/pdf-to-bmp"
+              }
+            ]
+          },
+          {
+            "category": "Document",
+            "formats": [
+              {
+                "label": "Word",
+                "route": "/pdf-to-word"
+              },
+              {
+                "label": "PowerPoint",
+                "route": "/pdf-to-powerpoint"
+              },
+              {
+                "label": "Excel",
+                "route": "/pdf-to-excel"
+              },
+              {
+                "label": "TXT",
+                "route": "/pdf-to-txt"
+              },
+              {
+                "label": "RTF",
+                "route": "/pdf-to-rtf"
+              }
+            ]
+          },
+          {
+            "category": "Other",
+            "formats": [
+              {
+                "label": "HTML",
+                "route": "/pdf-to-html"
+              },
+              {
+                "label": "EPUB",
+                "route": "/pdf-to-epub"
+              },
+              {
+                "label": "MOBI",
+                "route": "/pdf-to-mobi"
+              }
+            ]
+          }
+        ]
+      }
     }
   },
   {
     "name": "Image",
+    "icon": "/image-icon",
     "dropdownData": {
       "dropdownList": [
         {
@@ -258,58 +267,91 @@
           ]
         }
       ],
-      "convert": [
-        {
-          "label": "Convert Image",
-          "options": [
-            {
-              "category": "Image",
-              "formats": [
-                {
-                  "label": "JPG",
-                  "route": "/jpg-converter"
-                },
-                {
-                  "label": "PNG",
-                  "route": "/png-converter"
-                },
-                {
-                  "label": "TIFF",
-                  "route": "/tiff-converter"
-                },
-                {
-                  "label": "GIF",
-                  "route": "/gif-converter"
-                },
-                {
-                  "label": "BMP",
-                  "route": "/bmp-converter"
-                },
-                {
-                  "label": "WEBP",
-                  "route": "/webp-converter"
-                },
-                {
-                  "label": "SVG",
-                  "route": "/svg-converter"
-                },
-                {
-                  "label": "ICO",
-                  "route": "/ico-converter"
-                },
-                {
-                  "label": "HEIC",
-                  "route": "/heic-converter"
-                }
-              ]
-            }
-          ]
-        }
-      ]
+      "convert": {
+        "convertFrom": [
+          {
+            "category": "Image",
+            "formats": [
+              {
+                "label": "JPG",
+                "route": "/jpg-converter"
+              },
+              {
+                "label": "PNG",
+                "route": "/png-converter"
+              },
+              {
+                "label": "TIFF",
+                "route": "/tiff-converter"
+              },
+              {
+                "label": "GIF",
+                "route": "/gif-converter"
+              },
+              {
+                "label": "BMP",
+                "route": "/bmp-converter"
+              },
+              {
+                "label": "WEBP",
+                "route": "/webp-converter"
+              },
+              {
+                "label": "SVG",
+                "route": "/svg-converter"
+              },
+              {
+                "label": "ICO",
+                "route": "/ico-converter"
+              }
+            ]
+          }
+        ],
+        "convertTo": [
+          {
+            "category": "Image",
+            "formats": [
+              {
+                "label": "JPG",
+                "route": "/to-jpg-converter"
+              },
+              {
+                "label": "PNG",
+                "route": "/to-png-converter"
+              },
+              {
+                "label": "TIFF",
+                "route": "/to-tiff-converter"
+              },
+              {
+                "label": "GIF",
+                "route": "/to-gif-converter"
+              },
+              {
+                "label": "BMP",
+                "route": "/to-bmp-converter"
+              },
+              {
+                "label": "WEBP",
+                "route": "/to-webp-converter"
+              },
+              {
+                "label": "SVG",
+                "route": "/to-svg-converter"
+              },
+              {
+                "label": "ICO",
+                "route": "/to-ico-converter"
+              }
+            ]
+          }
+        ]
+      }
     }
   },
   {
     "name": "Audio",
+    "icon": "/audio-icon",
     "dropdownData": {
       "dropdownList": [
         {
@@ -346,11 +388,84 @@
             }
           ]
         }
-      ]
+      ],
+      "convert": {
+        "convertFrom": [
+          {
+            "category": "Audio",
+            "formats": [
+              {
+                "label": "MP3",
+                "route": "/mp3-converter"
+              },
+              {
+                "label": "WAV",
+                "route": "/wav-converter"
+              },
+              {
+                "label": "OGG",
+                "route": "/ogg-converter"
+              },
+              {
+                "label": "FLAC",
+                "route": "/flac-converter"
+              },
+              {
+                "label": "AAC",
+                "route": "/aac-converter"
+              },
+              {
+                "label": "M4A",
+                "route": "/m4a-converter"
+              },
+              {
+                "label": "WMA",
+                "route": "/wma-converter"
+              }
+            ]
+          }
+        ],
+        "convertTo": [
+          {
+            "category": "Audio",
+            "formats": [
+              {
+                "label": "MP3",
+                "route": "/to-mp3-converter"
+              },
+              {
+                "label": "WAV",
+                "route": "/to-wav-converter"
+              },
+              {
+                "label": "OGG",
+                "route": "/to-ogg-converter"
+              },
+              {
+                "label": "FLAC",
+                "route": "/to-flac-converter"
+              },
+              {
+                "label": "AAC",
+                "route": "/to-aac-converter"
+              },
+              {
+                "label": "M4A",
+                "route": "/to-m4a-converter"
+              },
+              {
+                "label": "WMA",
+                "route": "/to-wma-converter"
+              }
+            ]
+          }
+        ]
+      }
     }
   },
   {
     "name": "Video",
+    "icon": "/video-icon",
     "dropdownData": {
       "dropdownList": [
         {
@@ -387,135 +502,185 @@
             }
           ]
         }
-      ]
+      ],
+      "convert": {
+        "convertFrom": [
+          {
+            "category": "Video",
+            "formats": [
+              {
+                "label": "MP4",
+                "route": "/mp4-converter"
+              },
+              {
+                "label": "AVI",
+                "route": "/avi-converter"
+              },
+              {
+                "label": "MOV",
+                "route": "/mov-converter"
+              },
+              {
+                "label": "WMV",
+                "route": "/wmv-converter"
+              },
+              {
+                "label": "MKV",
+                "route": "/mkv-converter"
+              },
+              {
+                "label": "FLV",
+                "route": "/flv-converter"
+              },
+              {
+                "label": "WEBM",
+                "route": "/webm-converter"
+              }
+            ]
+          }
+        ],
+        "convertTo": [
+          {
+            "category": "Video",
+            "formats": [
+              {
+                "label": "MP4",
+                "route": "/to-mp4-converter"
+              },
+              {
+                "label": "AVI",
+                "route": "/to-avi-converter"
+              },
+              {
+                "label": "MOV",
+                "route": "/to-mov-converter"
+              },
+              {
+                "label": "WMV",
+                "route": "/to-wmv-converter"
+              },
+              {
+                "label": "MKV",
+                "route": "/to-mkv-converter"
+              },
+              {
+                "label": "FLV",
+                "route": "/to-flv-converter"
+              },
+              {
+                "label": "WEBM",
+                "route": "/to-webm-converter"
+              }
+            ]
+          }
+        ]
+      }
     }
   },
   {
-    "name": "All Tools",
+    "name": "Doc",
+    "icon": "/doc-icon",
     "dropdownData": {
       "dropdownList": [
         {
-          "group": "Organize PDF",
+          "group": "Edit Document",
           "items": [
             {
-              "label": "Merge PDF",
-              "route": "/merge-pdf"
+              "label": "Word Editor",
+              "route": "/word-editor"
             },
             {
-              "label": "Split PDF",
-              "route": "/split-pdf"
+              "label": "Excel Editor",
+              "route": "/excel-editor"
             },
             {
-              "label": "Remove Pages",
-              "route": "/remove-pages"
-            },
-            {
-              "label": "Extract Pages",
-              "route": "/extract-pages"
-            },
-            {
-              "label": "Scan PDF",
-              "route": "/scan-pdf"
+              "label": "PowerPoint Editor",
+              "route": "/powerpoint-editor"
             }
           ]
         },
         {
-          "group": "CONVERT TO PDF",
+          "group": "Convert Document",
           "items": [
-            {
-              "label": "JPG to PDF",
-              "route": "/app/jpg-to-pdf"
-            },
             {
               "label": "Word to PDF",
-              "route": "/app/word-to-pdf"
+              "route": "/word-to-pdf"
             },
             {
-              "label": "POWERPOINT to PDF",
-              "route": "/app/powerpoint-to-pdf"
+              "label": "Excel to PDF",
+              "route": "/excel-to-pdf"
             },
             {
-              "label": "EXCEL to PDF",
-              "route": "/app/excel-to-pdf"
-            },
-            {
-              "label": "HTML to PDF",
-              "route": "/app/html-to-pdf"
-            }
-          ]
-        },
-        {
-          "group": "CONVERT FROM PDF",
-          "items": [
-            {
-              "label": "PDF to JPG",
-              "route": "/app/pdf-to-jpg"
-            },
-            {
-              "label": "PDF to WORD",
-              "route": "/app/pdf-to-word"
-            },
-            {
-              "label": "PDF to POWERPOINT",
-              "route": "/app/pdf-to-powerpoint"
-            },
-            {
-              "label": "PDF to EXCEL",
-              "route": "/app/pdf-to-excel"
-            }
-          ]
-        },
-        {
-          "group": "Optimize PDF",
-          "items": [
-            {
-              "label": "Compress PDF",
-              "route": "/compress-pdf"
-            },
-            {
-              "label": "Resize PDF",
-              "route": "/resize-pdf"
-            },
-            {
-              "label": "Rotate PDF",
-              "route": "/rotate-pdf"
-            },
-            {
-              "label": "Unlock PDF",
-              "route": "/unlock-pdf"
-            },
-            {
-              "label": "Protect PDF",
-              "route": "/protect-pdf"
-            }
-          ]
-        },
-        {
-          "group": "Edit PDF",
-          "items": [
-            {
-              "label": "Rotate PDF",
-              "route": "/rotate-pdf"
-            },
-            {
-              "label": "Unlock PDF",
-              "route": "/unlock-pdf"
-            },
-            {
-              "label": "Protect PDF",
-              "route": "/protect-pdf"
-            },
-            {
-              "label": "Add Watermark",
-              "route": "/add-watermark"
-            },
-            {
-              "label": "Add Page Numbers",
-              "route": "/add-page-numbers"
+              "label": "PowerPoint to PDF",
+              "route": "/powerpoint-to-pdf"
             }
           ]
         }
-      ]
+      ],
+      "convert": {
+        "convertFrom": [
+          {
+            "category": "Document",
+            "formats": [
+              {
+                "label": "DOC",
+                "route": "/doc-converter"
+              },
+              {
+                "label": "DOCX",
+                "route": "/docx-converter"
+              },
+              {
+                "label": "XLS",
+                "route": "/xls-converter"
+              },
+              {
+                "label": "XLSX",
+                "route": "/xlsx-converter"
+              },
+              {
+                "label": "PPT",
+                "route": "/ppt-converter"
+              },
+              {
+                "label": "PPTX",
+                "route": "/pptx-converter"
+              }
+            ]
+          }
+        ],
+        "convertTo": [
+          {
+            "category": "Document",
+            "formats": [
+              {
+                "label": "DOC",
+                "route": "/to-doc-converter"
+              },
+              {
+                "label": "DOCX",
+                "route": "/to-docx-converter"
+              },
+              {
+                "label": "XLS",
+                "route": "/to-xls-converter"
+              },
+              {
+                "label": "XLSX",
+                "route": "/to-xlsx-converter"
+              },
+              {
+                "label": "PPT",
+                "route": "/to-ppt-converter"
+              },
+              {
+                "label": "PPTX",
+                "route": "/to-pptx-converter"
+              }
+            ]
+          }
+        ]
+      }
     }
   }
 ]
