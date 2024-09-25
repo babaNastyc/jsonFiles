@@ -1,0 +1,28 @@
+{
+  "title": "Frequently Asked Questions",
+  "subtitle": "Find answers to common questions and get the information you need in our comprehensive FAQ section.",
+  "img_text": "We are here to assist you with any questions or issues.",
+  "img_url": "/FAQ_image.svg",
+  "questions": [
+    {
+      "question": "How do I convert files?",
+      "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusantium natus distinctio error esse est atque autem corporis modi ea."
+    },
+    {
+      "question": "Can I compress large files?",
+      "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum corrupti aut excepturi nisi exercitationem totam, unde labore vel possimus iusto!"
+    },
+    {
+      "question": "How can I merge multiple files?",
+      "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusantium natus distinctio error esse est atque autem corporis modi ea."
+    },
+    {
+      "question": "Can I compress large files?",
+      "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptatum corrupti aut excepturi nisi exercitationem totam, unde labore vel possimus iusto!"
+    },
+    {
+      "question": "Is it possible to split a file?",
+      "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam accusantium natus distinctio error esse est atque autem corporis modi ea."
+    }
+  ]
+}
