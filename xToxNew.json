@@ -1,13 +1,13 @@
 {
   "data": {
     "pageType": "software",  
-    "appPageRoute": "/pdf/compress",
+    "app_page_route": "/pdf/compress",
     "acceptedFileExtensions": ["pdf"],
-    "heroSection": {
+    "hero_section": {
       "title": "Compress PDF",
       "subtitle": "Compress your PDF file to get the same pdf quality but less storage.",
       "heroImage": "dragdropdo.com/heroImage",
-      "dropzoneData": {
+      "dropzone_data": {
         "heading1": "Drag & Drop",
         "heading2": "Or",
         "files": "Files",
@@ -19,7 +19,7 @@
         "Automatically deleted after 24 hours",
         "2GB upload limit"
       ],
-      "relatedOperations": [
+      "related_operations": [
         {
           "title": "PDF to Excel",
           "image": "xtox",
@@ -52,7 +52,7 @@
         }
       ]
     },
-    "fileFormats": [
+    "file_formats": [
       {
         "title": "JPG",
         "description": "JPEG (Joint Photographic Experts Group) is a widely-used image format known for its lossy compression, which reduces file size while maintaining reasonable quality. It’s ideal for photographs and web images due to its balance between image quality and storage efficiency. However, repeated compression can degrade image clarity.",
@@ -66,7 +66,7 @@
         "route": "/explore-all"
       }
     ],
-    "otherOptions": [
+    "other_options": [
       {
         "title": "Explore Our other PDF operations",
         "description": "Discover a wide range of PDF operations to enhance your document management. From editing and converting to merging and splitting, we have all your PDF needs covered.",
@@ -106,41 +106,41 @@
         ]
       }
     ],
-    "howTo": {
+    "how_to": {
       "title": "How to compress files online",
-      "subTitle": "Follow these easy steps to compress a large PDF file online:",
+      "subtitle": "Follow these easy steps to compress a large PDF file online:",
       "img": "HowToimg",
       "steps": [
         {
           "name": "Choose a PDF Compression Tool",
-          "detailedSteps": [
+          "detailed_steps": [
             "Search for an online PDF compressor such as Smallpdf, ILovePDF, or PDF Compressor."
           ]
         },
         {
           "name": "Upload Your PDF",
-          "detailedSteps": [
+          "detailed_steps": [
             "Go to the chosen tool's website.",
             "Click on the button to upload or drag and drop your PDF file into the designated area."
           ]
         },
         {
           "name": "Select Compression Settings",
-          "detailedSteps": [
+          "detailed_steps": [
             "Most tools offer different levels of compression (e.g., low, medium, high).",
             "Choose the desired level of compression based on your needs. Higher compression reduces file size more but may lower quality."
           ]
         },
         {
           "name": "Compress the PDF",
-          "detailedSteps": [
+          "detailed_steps": [
             "Click the button to start the compression process.",
             "Wait for the tool to process your file."
           ]
         },
         {
           "name": "Download the Compressed PDF",
-          "detailedSteps": [
+          "detailed_steps": [
             "Once the compression is complete, download the compressed PDF to your computer."
           ]
         }
@@ -185,7 +185,7 @@
     "faq": {
       "title": "Frequently Asked Questions",
       "subTitle": "Find answers to common questions and get the information you need in our comprehensive FAQ section.",
-      "pictureText": "We are here to assist you with any questions or issues.",
+      "picture_text": "We are here to assist you with any questions or issues.",
       "questions": [
         {
           "question": "How do I convert files?",
