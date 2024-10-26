@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "totalPosts": 100,      
+    "currentPage": 1,         
+    "totalPages": 10,         
+    "limit": 10                
+  },
+  "data": [
+    {
+      "title": "How to Use DragDropDo Effectively",
+      "description": "Learn how to maximize your productivity with DragDropDo.",
+      "slug": "use-dragdropdo-effectively",
+      "imageURL": "use-dragdropdo.webp",
+      "publishedAt": "2024-10-15",
+      "tags": ["productivity", "tools"],
+      "readingTime": "5 mins",
+      "author": {
+        "name": "Jane Doe",
+        "imageURL": "jane-doe.jpg"
+      }
+    },
+    {
+      "title": "The Benefits of Using Drag and Drop Tools",
+      "description": "A detailed overview of how drag and drop tools can improve your workflow.",
+      "slug": "benefits-drag-drop-tools",
+      "imageURL": "benefits-drag-drop.webp",
+      "publishedAt": "2024-10-14",
+      "tags": ["workflow", "tools"],
+      "readingTime": "6 mins",
+      "author": {
+        "name": "John Smith",
+        "imageURL": "john-smith.jpg"
+      }
+    }
+    // More blog posts...
+  ]
+}
