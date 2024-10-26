@@ -1,0 +1,142 @@
+{
+  "meta": {
+  "title": "[Blog Post Title] | DragDropDo",
+  "description": "[Short description of the blog post]",
+  "openGraph": {
+    "type": "article",
+    "url": "https://www.dragdropdo.com/blog/[slug]",
+    "title": "[Blog Post Title] | DragDropDo",
+    "description": "[Short description of the blog post]",
+    "images": [
+      {
+        "url": "https://www.dragdropdo.com/images/[slug]-og.png",
+        "width": 800,
+        "height": 600,
+        "alt": "[Blog Post Title]"
+      }
+    ]
+  },
+  "twitter": {
+    "card": "summary_large_image",
+    "url": "https://www.dragdropdo.com/blog/[slug]",
+    "title": "[Blog Post Title] | DragDropDo",
+    "description": "[Short description of the blog post]",
+    "images": [
+      {
+        "url": "https://www.dragdropdo.com/images/[slug]-twitter.png",
+        "alt": "[Blog Post Title]"
+      }
+    ]
+  },
+  "robots": {
+    "index": true,
+    "follow": true
+  },
+  "keywords": [
+    "[Primary keyword related to the post]",
+    "[Additional keywords]"
+  ],
+  "authors": [
+    {
+      "name": "[Author Name]",
+      "url": "https://dragdropdo.com/about"
+    }
+  ],
+  "viewport": "width=device-width, initial-scale=1.0",
+  "jsonLD": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": "https://dragdropdo.com/#website",
+        "url": "https://dragdropdo.com/",
+        "name": "DragDropDo",
+        "description": "Compress and resize PDFs and images easily",
+        "publisher": { "@id": "https://dragdropdo.com/#organization" }
+      },
+      {
+        "@type": "WebPage",
+        "@id": "https://dragdropdo.com/blog/[slug]#webpage",
+        "url": "https://dragdropdo.com/blog/[slug]",
+        "name": "[Blog Post Title] - DragDropDo",
+        "isPartOf": { "@id": "https://dragdropdo.com/#website" },
+        "description": "[Short description of the blog post]",
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://dragdropdo.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Blog",
+              "item": "https://dragdropdo.com/blog"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "[Blog Post Title]",
+              "item": "https://dragdropdo.com/blog/[slug]"
+            }
+          ]
+        },
+        "datePublished": "[YYYY-MM-DD]",
+        "dateModified": "[YYYY-MM-DD]",
+        "author": {
+          "@type": "Person",
+          "name": "[Author Name]"
+        },
+        "mainEntityOfPage": "https://dragdropdo.com/blog/[slug]"
+      },
+      {
+        "@type": "BlogPosting",
+        "headline": "[Blog Post Title]",
+        "image": ["https://dragdropdo.com/images/[slug]-og.png"],
+        "author": {
+          "@type": "Person",
+          "name": "[Author Name]",
+          "url": "https://dragdropdo.com/about"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "DragDropDo Inc.",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://dragdropdo.com/logo.png"
+          }
+        },
+        "datePublished": "[YYYY-MM-DD]",
+        "dateModified": "[YYYY-MM-DD]",
+        "description": "[Short description of the blog post]",
+        "articleBody": "[Extract or summary of the blog content, ideally 1-2 sentences]",
+        "interactionStatistic": [
+          {
+            "@type": "InteractionCounter",
+            "interactionType": "https://schema.org/LikeAction",
+            "userInteractionCount": "200"
+          }
+        ]
+      }
+    ]
+  }
+},
+"data": {
+  "title": "[Blog Post Title]",
+  "description": "[Short description of the blog post]",
+  "slug": "[slug]",
+  "imageURL": "blog.webp",
+  "publishedAt": "[YYYY-MM-DD]",
+  "tags": ["[tag1]", "[tag2]"],
+  "readingTime": "[reading time in minutes]",
+  "wordCount": "[word count]",
+  "body": "[Blog Markdown Content]",
+  "author": {
+    "name" "[Author Name]",
+    "imageURL": "[Author ImageURL]"
+  }
+}
+}
