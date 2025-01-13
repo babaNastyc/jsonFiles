@@ -1,0 +1,152 @@
+[
+  {
+    "name": "PDF",
+    "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/file_icon.svg",
+    "converter_page_route": "/converter/pdf",
+    "drop_down_list": [
+      {
+        "group": "Optimize PDF",
+        "items": [
+          {
+            "label": "Compress PDF",
+            "route": "/software/compress-pdf"
+          },
+          {
+            "label": "Reduce PDF Size",
+            "route": "/software/reduce-pdf-size"
+          }
+        ]
+      },
+      {
+        "group": "Popular Conversions",
+        "items": [
+          {
+            "label": "PDF to Word",
+            "route": "/software/pdf-to-word"
+          },
+          {
+            "label": "PDF to JPG",
+            "route": "/software/pdf-to-jpg"
+          },
+          {
+            "label": "PDF to PNG",
+            "route": "/software/pdf-to-png"
+          },
+          {
+            "label": "PDF to WEBP",
+            "route": "/software/pdf-to-webp"
+          },
+          {
+            "label": "PDF to BMP",
+            "route": "/software/pdf-to-bmp"
+          },
+          {
+            "label": "PDF to PNG",
+            "route": "/software/pdf-to-png"
+          },
+          {
+            "label": "PDF to GIF",
+            "route": "/software/pdf-to-gif"
+          },
+          {
+            "label": "PDF to ICO",
+            "route": "/software/pdf-to-ico"
+          },
+          {
+            "label": "PDF to HEIC",
+            "route": "/software/pdf-to-heic"
+          },
+          {
+            "label": "PDF to JPC",
+            "route": "/software/pdf-to-jpc"
+          },
+          {
+            "label": "PDF to PNG",
+            "route": "/software/pdf-to-png"
+          },
+          {
+            "label": "PDF to PNG",
+            "route": "/software/pdf-to-png"
+          },
+          {
+            "label": "PDF to PNG",
+            "route": "/software/pdf-to-png"
+          },
+          {
+            "label": "PDF to PNG",
+            "route": "/software/pdf-to-png"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Image",
+    "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/image_icon.svg",
+    "converter_page_route": "/converter/image",
+    "drop_down_list": [
+      {
+        "group": "Optimize Image",
+        "items": [
+          {
+            "label": "Compress Image",
+            "route": "/software/compress-image"
+          }
+        ]
+      },
+      {
+        "group": "Popular Conversions",
+        "items": [
+          {
+            "label": "JPG to PNG",
+            "route": "/software/jpg-to-png"
+          },
+          {
+            "label": "PNG to JPG",
+            "route": "/software/png-to-jpg"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Audio",
+    "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/audio_icon.svg",
+    "converter_page_route": "/converter/audio",
+    "drop_down_list": [
+      {
+        "group": "Popular Conversion",
+        "items": [
+          {
+            "label": "MP3 to WAV",
+            "route": "/software/mp3-to-wav"
+          },
+          {
+            "label": "WAV to MP3",
+            "route": "/software/wav-to-mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Video",
+    "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/video_icon.svg",
+    "converter_page_route": "/converter/video",
+    "drop_down_list": [
+      {
+        "group": "Popular Conversion",
+        "items": [
+          {
+            "label": "MP4 to AVI",
+            "route": "/software/mp4-to-avi"
+          },
+          {
+            "label": "AVI to MP4",
+            "route": "/software/avi-to-mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
