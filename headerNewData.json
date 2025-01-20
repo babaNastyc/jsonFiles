@@ -10,10 +10,6 @@
           {
             "label": "Compress PDF",
             "route": "/software/compress-pdf"
-          },
-          {
-            "label": "Reduce PDF Size",
-            "route": "/software/reduce-pdf-size"
           }
         ]
       },
@@ -21,7 +17,7 @@
         "group": "Popular Conversions",
         "items": [
           {
-            "label": "PDF to Word",
+            "label": "PDF to WORD",
             "route": "/software/pdf-to-word"
           },
           {
@@ -63,18 +59,6 @@
           {
             "label": "PDF to PNG",
             "route": "/software/pdf-to-png"
-          },
-          {
-            "label": "PDF to PNG",
-            "route": "/software/pdf-to-png"
-          },
-          {
-            "label": "PDF to PNG",
-            "route": "/software/pdf-to-png"
-          },
-          {
-            "label": "PDF to PNG",
-            "route": "/software/pdf-to-png"
           }
         ]
       }
@@ -104,6 +88,50 @@
           {
             "label": "PNG to JPG",
             "route": "/software/png-to-jpg"
+          },
+          {
+            "label": "WEBP to PNG",
+            "route": "/software/webp-to-png"
+          },
+          {
+            "label": "PNG to WEBP",
+            "route": "/software/png-to-webp"
+          },
+          {
+            "label": "GIF to JPG",
+            "route": "/software/gif-to-jpg"
+          },
+          {
+            "label": "JPG to GIF",
+            "route": "/software/jpg-to-gif"
+          },
+          {
+            "label": "PNG to SVG",
+            "route": "/software/png-to-svg"
+          },
+          {
+            "label": "SVG to PNG",
+            "route": "/software/svg-to-png"
+          },
+          {
+            "label": "SVG to JPG",
+            "route": "/software/svg-to-jpg"
+          },
+          {
+            "label": "ICO to JPG",
+            "route": "/software/ico-to-jpg"
+          },
+          {
+            "label": "PNG to ICO",
+            "route": "/software/png-to-ico"
+          },
+          {
+            "label": "ICO to JPG",
+            "route": "/software/ico-to-jpg"
+          },
+          {
+            "label": "JPG to ICO",
+            "route": "/software/jpg-to-ico"
           }
         ]
       }
@@ -124,6 +152,42 @@
           {
             "label": "WAV to MP3",
             "route": "/software/wav-to-mp3"
+          },
+          {
+            "label": "WAV to MP2",
+            "route": "/software/wav-to-mp2"
+          },
+          {
+            "label": "MP2 to MP3",
+            "route": "/software/mp2-to-mp3"
+          },
+          {
+            "label": "MP3 to MP2",
+            "route": "/software/mp3-to-mp2"
+          },
+          {
+            "label": "MP3 to MPC",
+            "route": "/software/mp3-to-mpc"
+          },
+          {
+            "label": "MPC to MP3",
+            "route": "/software/mpc-to-mp3"
+          },
+          {
+            "label": "MPC to WAV",
+            "route": "/software/mpc-to-wav"
+          },
+          {
+            "label": "ADX to MP3",
+            "route": "/software/adx-to-mp3"
+          },
+          {
+            "label": "MP3 to ADX",
+            "route": "/software/mp3-to-adx"
+          },
+          {
+            "label": "MPC to ADX",
+            "route": "/software/mpc-to-adx"
           }
         ]
       }
@@ -144,6 +208,38 @@
           {
             "label": "AVI to MP4",
             "route": "/software/avi-to-mp4"
+          },
+          {
+            "label": "AVI to MOV",
+            "route": "/software/avi-to-mov"
+          },
+          {
+            "label": "MOV to AVI",
+            "route": "/software/mov-to-avi"
+          },
+          {
+            "label": "MOV to MP4",
+            "route": "/software/mov-to-mp4"
+          },
+          {
+            "label": "mpeg to MP4",
+            "route": "/software/mpeg-to-mp4"
+          },
+          {
+            "label": "AVI to mpeg",
+            "route": "/software/avi-to-mpeg"
+          },
+          {
+            "label": "MP4 to MOV",
+            "route": "/software/mp4-to-mov"
+          },
+          {
+            "label": "3GP to MP4",
+            "route": "/software/3gp-to-mp4"
+          },
+          {
+            "label": "MP4 to 3GP",
+            "route": "/software/mp4-to-3gp"
           }
         ]
       }
