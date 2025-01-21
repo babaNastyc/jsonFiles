@@ -17,8 +17,8 @@
         "group": "Popular Conversions",
         "items": [
           {
-            "label": "PDF to WORD",
-            "route": "/software/pdf-to-word"
+            "label": "PDF to HTML",
+            "route": "/software/pdf-to-html"
           },
           {
             "label": "PDF to JPG",
@@ -57,7 +57,7 @@
             "route": "/software/pdf-to-jpc"
           },
           {
-            "label": "PDF to PNG",
+            "label": "PDF to TIFF",
             "route": "/software/pdf-to-png"
           }
         ]
