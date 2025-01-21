@@ -166,10 +166,6 @@
             "route": "/software/mp3-to-mp2"
           },
           {
-            "label": "MP3 to MPC",
-            "route": "/software/mp3-to-mpc"
-          },
-          {
             "label": "MPC to MP3",
             "route": "/software/mpc-to-mp3"
           },
