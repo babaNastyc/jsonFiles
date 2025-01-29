@@ -69,8 +69,8 @@
             "route": "/software/pdf-to-jpc"
           },
           {
-            "label": "PDF to TIFF",
-            "route": "/software/pdf-to-png"
+            "label": "PDF to HEIF",
+            "route": "/software/pdf-to-heif"
           }
         ]
       }
