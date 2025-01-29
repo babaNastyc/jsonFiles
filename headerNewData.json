@@ -1,7 +1,7 @@
 [
   {
     "name": "PDF",
-    "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/file_icon.svg",
+    "icon": "/pdf.svg",
     "converter_page_route": "/converter/pdf",
     "drop_down_list": [
       {
@@ -78,7 +78,7 @@
   },
   {
     "name": "Image",
-    "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/image_icon.svg",
+    "icon": "/image.svg",
     "converter_page_route": "/converter/image",
     "drop_down_list": [
       {
@@ -151,7 +151,7 @@
   },
   {
     "name": "Audio",
-    "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/audio_icon.svg",
+    "icon": "audio.svg",
     "converter_page_route": "/converter/audio",
     "drop_down_list": [
       {
@@ -207,7 +207,7 @@
   },
   {
     "name": "Video",
-    "icon": "https://d10lpgp6xz60nq.cloudfront.net/images/d3/video_icon.svg",
+    "icon": "/video.svg",
     "converter_page_route": "/converter/video",
     "drop_down_list": [
       {
@@ -252,6 +252,126 @@
           {
             "label": "MP4 to 3GP",
             "route": "/software/mp4-to-3gp"
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "Archive",
+    "icon": "/archive.svg",
+    "converter_page_route": "/converter/archive",
+    "drop_down_list": [
+      {
+        "group": "Popular Conversion",
+        "items": [
+          {
+            "label": "RAR to TAR",
+            "route": "/software/rar-to-tar"
+          },
+          {
+            "label": "TAR to RAR",
+            "route": "/software/tar-to-rar"
+          },
+          {
+            "label": "7Z to RAR",
+            "route": "/software/7z-to-rar"
+          },
+          {
+            "label": "RAR to 7Z",
+            "route": "/software/rar-to-7z"
+          },
+          {
+            "label": "ZIP to RAR",
+            "route": "/software/zip-to-rar"
+          },
+          {
+            "label": "7Z to ZIP",
+            "route": "/software/7z-to-zip"
+          },
+          {
+            "label": "ZIP to RAR",
+            "route": "/software/zip-to-rar"
+          },
+          {
+            "label": "ZIP to TAR",
+            "route": "/software/zip-to-rar"
+          },
+          {
+            "label": "TAR to ZIP",
+            "route": "/software/tar-to-xip"
+          },
+          {
+            "label": "RAR to ZIP",
+            "route": "/software/rar-to-zip"
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "Font",
+    "icon": "/font.svg",
+    "converter_page_route": "/converter/font",
+    "drop_down_list": [
+      {
+        "group": "Popular Conversion",
+        "items": [
+          {
+            "label": "OTF to EOT",
+            "route": "/software/otf-to-eot"
+          },
+          {
+            "label": "TTF to EOT",
+            "route": "/software/ttf-to-eot"
+          },
+          {
+            "label": "WOFF to EOT",
+            "route": "/software/woff-to-eot"
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "name": "Document",
+    "icon": "/document.svg",
+    "converter_page_route": "/converter/document",
+    "drop_down_list": [
+      {
+        "group": "Popular Conversion",
+        "items": [
+          {
+            "label": "HTML to PDF",
+            "route": "/software/html-to-pdf"
+          },
+          {
+            "label": "DOCX to HTML",
+            "route": "/software/docx-to-html"
+          },
+          {
+            "label": "DOCX to PPT",
+            "route": "/software/docx-to-ppt"
+          },
+          {
+            "label": "PPT to DOCX",
+            "route": "/software/ppt-to-docx"
+          },
+          {
+            "label": "HTML to PPT",
+            "route": "/software/html-to-ppt"
+          },
+          {
+            "label": "PPT to XLS",
+            "route": "/software/ppt-to-xls"
+          },
+          {
+            "label": "XLS to DOCX",
+            "route": "/software/xls-to-docx"
+          },
+          {
+            "label": "DOCX to XLS",
+            "route": "/software/docx-to-xls"
           }
         ]
       }
