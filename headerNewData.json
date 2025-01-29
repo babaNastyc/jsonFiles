@@ -21,6 +21,18 @@
             "route": "/software/pdf-to-html"
           },
           {
+            "label": "PDF to DOCX",
+            "route": "/software/pdf-to-docx"
+          },
+          {
+            "label": "PDF to PPT",
+            "route": "/software/pdf-to-ppt"
+          },
+          {
+            "label": "PDF to XLS",
+            "route": "/software/pdf-to-xls"
+          },
+          {
             "label": "PDF to JPG",
             "route": "/software/pdf-to-jpg"
           },
@@ -164,6 +176,10 @@
           {
             "label": "MP3 to MP2",
             "route": "/software/mp3-to-mp2"
+          },
+          {
+            "label": "MP3 to MPC",
+            "route": "/software/mp3-to-mpc"
           },
           {
             "label": "MPC to MP3",
