@@ -151,7 +151,7 @@
   },
   {
     "name": "Audio",
-    "icon": "audio.svg",
+    "icon": "/audio.svg",
     "converter_page_route": "/converter/audio",
     "drop_down_list": [
       {
